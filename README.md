@@ -13,5 +13,3 @@ I have ran into this problem a few times, where I have a group of friends that I
 
 With OOC-Link - this is all handled in the background seamlessly. Just install an app, login, and it works. You can join each of your friends networks and set permissions to get to each.
 
-
-# Orchestration W11 Containers peer-to-peer / server-client
